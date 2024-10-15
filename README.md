@@ -15,7 +15,7 @@ Wang-et-al-repo-for-A.-pittii/0805_Cinch_0805_Cinch.726Ap_pp.allele.pan.allele.m
 0805_Cinch.profile
 ~~~
 ### Plasmid identification based PlasT pipeline
-PlasT is a stand-alone module of [KleTY](https://github.com/zheminzhou/KleTy), DOI: <https://doi.org/10.1101/2024.04.16.24305880>), which can predict potential plasmid sequences from assembled genome file.
+PlasT is a stand-alone module of [KleTY](https://github.com/zheminzhou/KleTy) (DOI: <https://doi.org/10.1101/2024.04.16.24305880>), which can predict potential plasmid sequences from assembled genome file.
 Usage:
 ~~~
 python PlasT.py [genome]
